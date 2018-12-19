@@ -46,8 +46,8 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column h4{
-  container:medium ;
+.column {
+  tile:medium ;
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
